@@ -1,0 +1,28 @@
+{
+  "name": "tr-morph",
+  "version": "0.0.1",
+  "description": "A lightweight library for handling Turkish word suffixes and morphological rules. Easily add suffixes to Turkish words like \"-de\", \"-den\", \"-e\" based on vowel harmony and other grammar rules. Perfect for NLP projects and Turkish language processing tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidarpttr/tr-morph.git"
+  },
+  "keywords": [
+    "tr",
+    "morphology",
+    "grammer",
+    "türkçe",
+    "ek",
+    "turkish",
+    "language"
+  ],
+  "author": "sidarpttr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sidarpttr/tr-morph/issues"
+  },
+  "homepage": "https://github.com/sidarpttr/tr-morph#readme"
+}
